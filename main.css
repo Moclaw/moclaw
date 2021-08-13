@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
 .tuna {
   animation: walk-cycle 1s steps(12) infinite;
-  background: url(http://stash.rachelnabors.com/img/codepen/tuna_sprite.png) 0 0 no-repeat; 
+  background: url(media/1.png) 0 0 no-repeat; 
   height: 200px;
   width: 400px;
   position: absolute;
@@ -28,7 +28,7 @@
 width: 100%;
   height: 100%;
   animation: parallax_fg linear 60s infinite both;
-  background:  url(http://stash.rachelnabors.com/24ways2012/foreground_grass.png) 0 100% repeat-x;
+  background:  url(media/2.png) 0 100% repeat-x;
   z-index: 3;
     top: 0; left: 0;
 }
@@ -43,7 +43,7 @@ width: 100%;
   height: 100%;
     top: 0; left: 0;
   animation: parallax_mg linear 60s infinite;
-  background:  url(http://stash.rachelnabors.com/24ways2012/midground_grass.png) 0 100% repeat-x;
+  background:  url(media/3.png) 0 100% repeat-x;
   z-index: 2;
 }
 
@@ -57,11 +57,11 @@ width: 100%;
   top: 0; left: 0;
   height: 100%;
   background-image:
-    url(http://stash.rachelnabors.com/24ways2012/background_mountain5.png),
-    url(http://stash.rachelnabors.com/24ways2012/background_mountain4.png),
-    url(http://stash.rachelnabors.com/24ways2012/background_mountain3.png),
-    url(http://stash.rachelnabors.com/24ways2012/background_mountain2.png),
-    url(http://stash.rachelnabors.com/24ways2012/background_mountain1.png);
+    url(media/4.png),
+    url(media/5.png),
+    url(media/6.png),
+    url(media/7.png),
+    url(media/8.png);
   background-repeat: repeat-x;
   background-position: 0 100%;
   z-index: 1;
@@ -74,7 +74,7 @@ width: 100%;
 
 body {
     background: linear-gradient(top, rgba(255,255,255,1) 0%,rgba(255,255,255,0) 100%),
-    #d2d2d2 url(http://stash.rachelnabors.com/24ways2012/background_clouds.png);
+    #d2d2d2 url(media/9.png);
 }
 .center-screen {
 	font-family: 'Style Script', cursive;
