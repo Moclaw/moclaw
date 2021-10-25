@@ -1,9 +1,9 @@
 import math
 import sys
 class Graph():
-    def __init__(cung, dinh):
-        cung.x = dinh
-        cung.graph = [[0 for column in range(dinh)]
+    def __init__(_self_, dinh):
+        _self_.x = dinh
+        _self_.graph = [[0 for column in range(dinh)]
                     for row in range(dinh)]
 
     def inketqua(cung, L, a):
@@ -32,7 +32,7 @@ class Graph():
 
 
 
-print('đồ thị vô hướng')
+print('Đồ thị vô hướng')
 g = Graph(6)
 g.graph = [[0, 2, 0, 3, 0, 0],
 
