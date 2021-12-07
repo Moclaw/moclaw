@@ -1,7 +1,7 @@
 # Nguyễn Thành Công / Mộc Dương Lâm (Moclaw)
-- ⛄ I'm a full-stack developer
+- ⛄ I'm a fresher full-stack developer
 - 🎓 I'm student from Van Lang University
-- 💻 And when I was 18, I spend so much time studying so hard about website development My goal is to become a software engineer
+- 💻 And when I was 18, I spend so much time studying so hard about website development. My goal is to become a software engineer
 ***
 ---
 
