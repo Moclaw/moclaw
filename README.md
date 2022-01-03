@@ -21,7 +21,7 @@
  - Fresher ASP.NET in that company
  - Studying ReactJs
  - Graphql
- *Jan 2022 -  Present*
+*Jan 2022 -  Present*
 ## Start my project:
    - [Winform project](https://github.com/Moclaw/WinFormsProject)
 ***
