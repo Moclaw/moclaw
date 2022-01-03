@@ -10,15 +10,17 @@
 *Sep 2020 ~ Jan 2021*
  - Start learning to HTML/CSS/JS
  - Basic Python
+ - Github
 
 *April 2021 ~ July 2021*
  - Internship ASP.NET in a Startup real estate brokers and technology
  - Learn C# from zero to can use it to work
+ - Medium Python
 
-*July 2021 ~ Present*
+*July 2021 ~ Jan 2022*
  - Fresher ASP.NET in that company
  - Studying ReactJs
- - Medium Python (In my School 🏫)
+ - Graphql
 ***
 
 ## **SOMETHING YOU CAN SEE**
