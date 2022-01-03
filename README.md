@@ -22,6 +22,7 @@
  - Studying ReactJs
  - Graphql
 *Jan 2022 -  Present*
+ - Learn from school
 ## Start my project:
    - [Winform project](https://github.com/Moclaw/WinFormsProject)
 ***
