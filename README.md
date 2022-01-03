@@ -23,7 +23,7 @@
  - Graphql
  *Jan 2022 -  Present*
  - Start my project:
-    - ![winform](https://github.com/Moclaw/WinFormsProject)
+    - [Winform project](https://github.com/Moclaw/WinFormsProject)
 ***
 
 ## **SOMETHING YOU CAN SEE**
