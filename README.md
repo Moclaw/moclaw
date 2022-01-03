@@ -21,6 +21,8 @@
  - Fresher ASP.NET in that company
  - Studying ReactJs
  - Graphql
+ *Jan 2022 -  Present*
+ - Start my project ![win ]
 ***
 
 ## **SOMETHING YOU CAN SEE**
