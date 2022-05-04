@@ -4,25 +4,6 @@
 - 💻 And when I was 18, I spend so much time studying so hard about website development. My goal is to become a software engineer
 ***
 ---
-
-## **🎏Timeline**
-
-*Sep 2020 ~ Jan 2021*
- - Start learning to HTML/CSS/JS
- - Basic Python
- - Github
-
-*April 2021 ~ July 2021*
- - Internship ASP.NET in a Startup real estate brokers and technology
- - Learn C# from zero to can use it to work
- - Medium Python
-
-*July 2021 ~ Jan 2022*
- - Fresher ASP.NET in that company
- - Studying ReactJs
- - Graphql
-*Jan 2022 -  Present*
- - Learn from school
 ## Start my project:
    - [Winform project](https://github.com/Moclaw/WinFormsProject)
    - [ASP.NET CORE](https://github.com/Moclaw/DemoApi)
