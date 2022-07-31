@@ -1,7 +1,5 @@
 # Nguyễn Thành Công / Mộc Dương Lâm (Moclaw)
-- ⛄ I'm a fresher full-stack developer
-- 🎓 I'm student from Van Lang University
-- 💻 And when I was 18, I spend so much time studying so hard about website development. My goal is to become a software engineer
+- I am a programmer who loves programming. Programming is a task that requires a lot of time, patience, and skill. For me, programming is more than just a career, it is a lifestyle. I would spend my days either reading or writing code and I love it!
 ***
 ---
 ## Start my project:
