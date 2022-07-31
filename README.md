@@ -24,5 +24,5 @@
 
 ## **Contact with me to:**
 - [Facebook] : (https://www.facebook.com/mocrlaw/)
-- [Instagram] : (https://www.instagram.com/morclaw/)
+- [Instagram] : (https://www.instagram.com/morclaw86/)
 - [Gmail] : (mocduonglam86@gmail.com)
