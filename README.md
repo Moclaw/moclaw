@@ -23,6 +23,6 @@
 ***
 
 ## **Contact with me to:**
-- [Facebook] : (https://www.facebook.com/mocrlaw/)
-- [Instagram] : (https://www.instagram.com/morclaw86/)
+- [Facebook] : (https://www.facebook.com/moclaw86/)
+- [Instagram] : (https://www.instagram.com/morclaw/)
 - [Gmail] : (mocduonglam86@gmail.com)
