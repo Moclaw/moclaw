@@ -6,8 +6,8 @@
    - [Winform project](https://github.com/Moclaw/WinFormsProject)
    - [ASP.NET CORE](https://github.com/Moclaw/DemoApi)
    - [C# basic to Blazor Framework](https://github.com/Moclaw/InterV.git)
-   - [Angular Project](https://github.com/Moclaw/ForFun.git)
-   - [React Project](https://github.com/Moclaw/MoclawReactWeb.git)
+   - [Angular Project](https://github.com/vlug-team/VLU-CV.git)
+   - [Blazor Project](https://github.com/vlug-team/dorm-vlu.git)
 ***
 
 ## **SOMETHING YOU CAN SEE**
