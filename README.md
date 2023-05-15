@@ -1,5 +1,5 @@
 # Nguyễn Thành Công / Mộc Dương Lâm (Moclaw)
-- I am a programmer who loves programming. Programming is a task that requires a lot of time, patience, and skill. For me, programming is more than just a career, it is a lifestyle. I would spend my days either reading or writing code and I love it!
+- I am a passionate programmer who deeply enjoys coding. Programming demands a lot of time, patience, and skill, but for me, it's not just a profession; it's a way of life. I spend most of my days either reading or writing code, and I truly love every moment of it!
 ***
 ---
 ## Start my project:
@@ -8,6 +8,8 @@
    - [C# basic to Blazor Framework](https://github.com/Moclaw/InterV.git)
    - [Angular Project](https://github.com/vlug-team/VLU-CV.git)
    - [Blazor Project](https://github.com/vlug-team/dorm-vlu.git)
+   - [Nodejs-API](https://github.com/Moclaw/nodejs-api)
+   - [React-tailwind](https://github.com/Moclaw/project-x-cli)
 ***
 
 ## **SOMETHING YOU CAN SEE**
