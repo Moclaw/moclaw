@@ -3,7 +3,13 @@ name: Update Experience Years in README
 on:
   schedule:
     - cron: '0 0 1 1 *' # Runs yearly on January 1st at midnight UTC
-  workflow_dispatch: # Allow manual trigger
+  workflow_dispatch: 
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
 
 jobs:
   update-experience:
