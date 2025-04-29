@@ -1,7 +1,7 @@
 # <!-- CURRENT_YEARS=calculate from Jan 2021 to current year -->
 # 👋 Hi there, I'm Moclaw Nguyen
 
-I'm a **Software Engineer** with over **{{CURRENT_YEARS}} years of experience** in full-stack development using **.NET**, **Angular**, and **React**.
+I'm a **Software Engineer** with over **4 years of experience** in full-stack development using **.NET**, **Angular**, and **React**.
 I specialize in building high-performance, scalable systems and have contributed to digital transformation projects across multiple countries.
 
 ---
