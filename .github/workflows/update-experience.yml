@@ -1,32 +1,35 @@
-name: Update Experience Years in README
+name: Update Years of Experience
 
 on:
-  schedule:
-    - cron: '0 0 1 1 *' # Runs yearly on January 1st at midnight UTC
-  workflow_dispatch: 
   push:
-    branches:
-      - main
-  pull_request:
-    branches:
-      - main
+    paths:
+      - '**/README.md'
+  schedule:
+    - cron: '0 0 1 * *' # Run monthly on the 1st
 
 jobs:
-  update-experience:
+  update-years:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-      - name: Ensure docs directory exists
-        run: mkdir -p docs
-      - name: Set up Node.js
-        uses: actions/setup-node@v4
-        with:
-          node-version: '20'
-      - name: Run update-experience script
-        run: node update-experience.js
-      - name: Commit and push changes
-        uses: stefanzweifel/git-auto-commit-action@v5
-        with:
-          commit_message: 'chore: update years of experience in README [auto]'
-          file_pattern: README.md
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Update years of experience
+        run: |
+          START_YEAR=2021
+          CURRENT_YEAR=$(date +%Y)
+          CURRENT_MONTH=$(date +%m)
+          YEARS=$((CURRENT_YEAR - START_YEAR))
+          if [ "$CURRENT_MONTH" -lt 1 ]; then
+            YEARS=$((YEARS - 1))
+          fi
+          sed -i.bak "s/{{CURRENT_YEARS}}/${YEARS}/g" README.md
+          rm README.md.bak
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add README.md
+          git commit -m "chore: auto-update years of experience" || echo "No changes to commit"
+          git push
